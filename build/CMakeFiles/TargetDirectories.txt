@@ -1,0 +1,13 @@
+/home/pi/Desktop/RcloneBrowser-master/build/CMakeFiles/install/local.dir
+/home/pi/Desktop/RcloneBrowser-master/build/CMakeFiles/install/strip.dir
+/home/pi/Desktop/RcloneBrowser-master/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/RcloneBrowser-master/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/RcloneBrowser-master/build/CMakeFiles/list_install_components.dir
+/home/pi/Desktop/RcloneBrowser-master/build/CMakeFiles/install.dir
+/home/pi/Desktop/RcloneBrowser-master/build/src/CMakeFiles/install/local.dir
+/home/pi/Desktop/RcloneBrowser-master/build/src/CMakeFiles/install.dir
+/home/pi/Desktop/RcloneBrowser-master/build/src/CMakeFiles/rclone-browser.dir
+/home/pi/Desktop/RcloneBrowser-master/build/src/CMakeFiles/install/strip.dir
+/home/pi/Desktop/RcloneBrowser-master/build/src/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/RcloneBrowser-master/build/src/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/RcloneBrowser-master/build/src/CMakeFiles/list_install_components.dir

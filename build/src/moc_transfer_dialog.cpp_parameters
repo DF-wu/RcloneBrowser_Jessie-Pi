@@ -1,0 +1,6 @@
+-I/home/pi/Desktop/RcloneBrowser-master/src
+-I/home/pi/Desktop/RcloneBrowser-master/build/src
+-DRCLONE_BROWSER_VERSION="1.2"
+-o
+/home/pi/Desktop/RcloneBrowser-master/build/src/moc_transfer_dialog.cpp
+/home/pi/Desktop/RcloneBrowser-master/src/transfer_dialog.h
